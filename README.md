@@ -17,6 +17,7 @@ The accuracy of the prediction is maximized (99.86%) when k = 5.
 - The accuracy of the algorithm with different K was calculated.
 
 ## Result
-![image](https://github.com/Leonartinus/KNN-Weather-Predictor/assets/124462427/f6fd1d2e-42d6-4cb2-adcd-5732b2e6becb)
+![image](https://github.com/Leonartinus/KNN-Weather-Predictor/assets/124462427/4e726f07-b828-4de5-a1e2-1ed6eeea754a)
+
 
 The accuracy of the prediction is maximized (99.86%) when k = 5.
